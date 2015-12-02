@@ -1,0 +1,19 @@
+/**
+ * This file should get overwritten if Method 1 is used. If Method 2 is chosen,
+ * remove this comment and start adding your styles to this file.
+ */
+
+/*
+*Starting mytheme stylesheet here
+*/
+
+.field-type-image {
+	float: left;
+	margin-right: 1.5em;
+}
+.field-name-field-tags {
+	clear: both;
+}
+.node-readmore a {
+	color: green;
+}
